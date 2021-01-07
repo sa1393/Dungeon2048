@@ -1,0 +1,2374 @@
+fileFormatVersion: 2
+guid: 0a8d87e1d0ed2fd49b0c9357722b57d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2410002251198218989
+    second: sekeleton_idle,attack,passive_0
+  - first:
+      213: -8652030150691611045
+    second: sekeleton_idle,attack,passive_1
+  - first:
+      213: 7411066978514153691
+    second: sekeleton_idle,attack,passive_2
+  - first:
+      213: -2028853078607550440
+    second: sekeleton_idle,attack,passive_3
+  - first:
+      213: 5416506316926790433
+    second: sekeleton_idle,attack,passive_4
+  - first:
+      213: 1272864098468353873
+    second: sekeleton_idle,attack,passive_5
+  - first:
+      213: -5705230421464398225
+    second: sekeleton_idle,attack,passive_6
+  - first:
+      213: -5054511495183409479
+    second: sekeleton_idle,attack,passive_7
+  - first:
+      213: -2203355918262505795
+    second: sekeleton_idle,attack,passive_8
+  - first:
+      213: -6014124772593609180
+    second: sekeleton_idle,attack,passive_9
+  - first:
+      213: 1058592122122479154
+    second: sekeleton_idle,attack,passive_10
+  - first:
+      213: -2891490474918538890
+    second: sekeleton_idle,attack,passive_11
+  - first:
+      213: 8239780665562950989
+    second: sekeleton_idle,attack,passive_12
+  - first:
+      213: 6306831630423925996
+    second: sekeleton_idle,attack,passive_13
+  - first:
+      213: -1815609358850856686
+    second: sekeleton_idle,attack,passive_14
+  - first:
+      213: -1534981372752662521
+    second: sekeleton_idle,attack,passive_15
+  - first:
+      213: 2273656166387054392
+    second: sekeleton_idle,attack,passive_16
+  - first:
+      213: -4292701001438198791
+    second: sekeleton_idle,attack,passive_17
+  - first:
+      213: 1956908915929519543
+    second: sekeleton_idle,attack,passive_18
+  - first:
+      213: -9018642807396988087
+    second: sekeleton_idle,attack,passive_19
+  - first:
+      213: 5284046488618788837
+    second: sekeleton_idle,attack,passive_20
+  - first:
+      213: 2718499496748768094
+    second: sekeleton_idle,attack,passive_21
+  - first:
+      213: 7871302251722847815
+    second: sekeleton_idle,attack,passive_22
+  - first:
+      213: 2042567925366490699
+    second: sekeleton_idle,attack,passive_23
+  - first:
+      213: 2278693231426122392
+    second: sekeleton_idle,attack,passive_24
+  - first:
+      213: 218836438916579319
+    second: sekeleton_idle,attack,passive_25
+  - first:
+      213: -8597121534318541643
+    second: sekeleton_idle,attack,passive_26
+  - first:
+      213: -7122009467016821323
+    second: sekeleton_idle,attack,passive_27
+  - first:
+      213: 299507770072202585
+    second: sekeleton_idle,attack,passive_28
+  - first:
+      213: -2967211969819980929
+    second: sekeleton_idle,attack,passive_29
+  - first:
+      213: 8438130149802896071
+    second: sekeleton_idle,attack,passive_30
+  - first:
+      213: -8829290845060681769
+    second: sekeleton_idle,attack,passive_31
+  - first:
+      213: 3246019886714862129
+    second: sekeleton_idle,attack,passive_32
+  - first:
+      213: 2368509127505434619
+    second: sekeleton_idle,attack,passive_33
+  - first:
+      213: -764376662553788572
+    second: sekeleton_idle,attack,passive_34
+  - first:
+      213: 8236235272672155211
+    second: sekeleton_idle,attack,passive_35
+  - first:
+      213: -4152065361871732882
+    second: sekeleton_idle,attack,passive_36
+  - first:
+      213: -6070451705331279759
+    second: sekeleton_idle,attack,passive_37
+  - first:
+      213: 3016494130524153021
+    second: sekeleton_idle,attack,passive_38
+  - first:
+      213: -4897177154601975140
+    second: sekeleton_idle,attack,passive_39
+  - first:
+      213: 7540631493018589223
+    second: sekeleton_idle,attack,passive_40
+  - first:
+      213: 4540998547245414011
+    second: sekeleton_idle,attack,passive_41
+  - first:
+      213: 4194082687006632589
+    second: sekeleton_idle,attack,passive_42
+  - first:
+      213: -8639497059710897129
+    second: sekeleton_idle,attack,passive_43
+  - first:
+      213: 6297764768534730027
+    second: sekeleton_idle,attack,passive_44
+  - first:
+      213: 8498694324254997102
+    second: sekeleton_idle,attack,passive_45
+  - first:
+      213: 8180311049049478805
+    second: sekeleton_idle,attack,passive_46
+  - first:
+      213: -8708108430214866309
+    second: sekeleton_idle,attack,passive_47
+  - first:
+      213: 4140467356636611708
+    second: sekeleton_idle,attack,passive_48
+  - first:
+      213: 8511884207266491788
+    second: sekeleton_idle,attack,passive_49
+  - first:
+      213: 6922422815010513801
+    second: sekeleton_idle,attack,passive_50
+  - first:
+      213: -2820863939251037488
+    second: sekeleton_idle,attack,passive_51
+  - first:
+      213: -1796597555189528431
+    second: sekeleton_idle,attack,passive_52
+  - first:
+      213: -4060112376398562063
+    second: sekeleton_idle,attack,passive_53
+  - first:
+      213: -5817417115326302403
+    second: sekeleton_idle,attack,passive_54
+  - first:
+      213: -1374642294407027988
+    second: sekeleton_idle,attack,passive_55
+  - first:
+      213: -5654386394588031413
+    second: sekeleton_idle,attack,passive_56
+  - first:
+      213: -3596541857789538191
+    second: sekeleton_idle,attack,passive_57
+  - first:
+      213: -5616520913008807875
+    second: sekeleton_idle,attack,passive_58
+  - first:
+      213: -4593684878080766902
+    second: sekeleton_idle,attack,passive_59
+  - first:
+      213: -2549724102158767590
+    second: sekeleton_idle,attack,passive_60
+  - first:
+      213: 5625897803541027361
+    second: sekeleton_idle,attack,passive_61
+  - first:
+      213: -2944412654140711650
+    second: sekeleton_idle,attack,passive_62
+  - first:
+      213: 1305462852295581513
+    second: sekeleton_idle,attack,passive_63
+  - first:
+      213: -8334682949223927894
+    second: sekeleton_idle,attack,passive_64
+  - first:
+      213: 1434835971766427719
+    second: sekeleton_idle,attack,passive_65
+  - first:
+      213: -3446788107827440554
+    second: sekeleton_idle,attack,passive_66
+  - first:
+      213: 8696381817797104067
+    second: sekeleton_idle,attack,passive_67
+  - first:
+      213: 4778323307067771940
+    second: sekeleton_idle,attack,passive_68
+  - first:
+      213: -101190029347853922
+    second: sekeleton_idle,attack,passive_69
+  - first:
+      213: 5386544518204859376
+    second: sekeleton_idle,attack,passive_70
+  - first:
+      213: 4534602013535500100
+    second: sekeleton_idle,attack,passive_71
+  - first:
+      213: -4475841988055545802
+    second: sekeleton_idle,attack,passive_72
+  - first:
+      213: -4902064273143541221
+    second: sekeleton_idle,attack,passive_73
+  - first:
+      213: 6565658184833450456
+    second: sekeleton_idle,attack,passive_74
+  - first:
+      213: 1837443763903489198
+    second: sekeleton_idle,attack,passive_75
+  - first:
+      213: -861567994362083113
+    second: sekeleton_idle,attack,passive_76
+  - first:
+      213: 4668036054222937638
+    second: sekeleton_idle,attack,passive_77
+  - first:
+      213: -5027290852816627233
+    second: sekeleton_idle,attack,passive_78
+  - first:
+      213: -3189565969726583514
+    second: sekeleton_idle,attack,passive_79
+  - first:
+      213: -5131756618895407737
+    second: sekeleton_idle,attack,passive_80
+  - first:
+      213: -2566201749946592328
+    second: sekeleton_idle,attack,passive_0
+  - first:
+      213: 3212251682113204906
+    second: sekeleton_idle,attack,passive_1
+  - first:
+      213: 2261042027792969793
+    second: sekeleton_idle,attack,passive_2
+  - first:
+      213: -1134750326977440156
+    second: sekeleton_idle,attack,passive_3
+  - first:
+      213: 6650453191978219414
+    second: sekeleton_idle,attack,passive_4
+  - first:
+      213: -7384090193933177274
+    second: sekeleton_idle,attack,passive_5
+  - first:
+      213: 7775959539966946707
+    second: sekeleton_idle,attack,passive_6
+  - first:
+      213: -8392941013782448284
+    second: sekeleton_idle,attack,passive_7
+  - first:
+      213: 2047606797161765093
+    second: sekeleton_idle,attack,passive_8
+  - first:
+      213: 5196375916917267954
+    second: sekeleton_idle,attack,passive_9
+  - first:
+      213: -9045747145710912225
+    second: sekeleton_idle,attack,passive_10
+  - first:
+      213: -8142696585977985653
+    second: sekeleton_idle,attack,passive_11
+  - first:
+      213: -39273175836923294
+    second: sekeleton_idle,attack,passive_12
+  - first:
+      213: 134762090382351108
+    second: sekeleton_idle,attack,passive_13
+  - first:
+      213: -2578365279914630045
+    second: sekeleton_idle,attack,passive_14
+  - first:
+      213: 466314445742800402
+    second: sekeleton_idle,attack,passive_15
+  - first:
+      213: 735635101435769417
+    second: sekeleton_idle,attack,passive_16
+  - first:
+      213: 5230391975338170583
+    second: sekeleton_idle,attack,passive_17
+  - first:
+      213: 4957016164892358461
+    second: sekeleton_idle,attack,passive_18
+  - first:
+      213: 5207228779243046086
+    second: sekeleton_idle,attack,passive_19
+  - first:
+      213: -1910741255020041937
+    second: sekeleton_idle,attack,passive_20
+  - first:
+      213: 8455034668006474202
+    second: sekeleton_idle,attack,passive_21
+  - first:
+      213: 2765460531932170729
+    second: sekeleton_idle,attack,passive_22
+  - first:
+      213: 7669369994295140359
+    second: sekeleton_idle,attack,passive_23
+  - first:
+      213: -6812877889297280567
+    second: sekeleton_idle,attack,passive_24
+  - first:
+      213: 4189519094279038534
+    second: sekeleton_idle,attack,passive_25
+  - first:
+      213: 4687421038455647334
+    second: sekeleton_idle,attack,passive_26
+  - first:
+      213: 580770099552324833
+    second: sekeleton_idle,attack,passive_27
+  - first:
+      213: 5207561772610098824
+    second: sekeleton_idle,attack,passive_28
+  - first:
+      213: 4019118296540123863
+    second: sekeleton_idle,attack,passive_29
+  - first:
+      213: 5445083926335234787
+    second: sekeleton_idle,attack,passive_30
+  - first:
+      213: 1621687307679379561
+    second: sekeleton_idle,attack,passive_31
+  - first:
+      213: -1359080328694685435
+    second: sekeleton_idle,attack,passive_32
+  - first:
+      213: -3439814114695794678
+    second: sekeleton_idle,attack,passive_33
+  - first:
+      213: 5715318803631714810
+    second: sekeleton_idle,attack,passive_34
+  - first:
+      213: -3548360099648507069
+    second: sekeleton_idle,attack,passive_35
+  - first:
+      213: -7591775259172675328
+    second: sekeleton_idle,attack,passive_36
+  - first:
+      213: -8805778915180977778
+    second: sekeleton_idle,attack,passive_37
+  - first:
+      213: -8667305318009900708
+    second: sekeleton_idle,attack,passive_38
+  - first:
+      213: -847519808342769113
+    second: sekeleton_idle,attack,passive_39
+  - first:
+      213: -6020908703839168381
+    second: sekeleton_idle,attack,passive_40
+  - first:
+      213: 1325864028317403514
+    second: sekeleton_idle,attack,passive_41
+  - first:
+      213: 3665809801571007389
+    second: sekeleton_idle,attack,passive_42
+  - first:
+      213: 2744666345944795870
+    second: sekeleton_idle,attack,passive_43
+  - first:
+      213: -8327400002304516747
+    second: sekeleton_idle,attack,passive_44
+  - first:
+      213: 6930348388031629434
+    second: sekeleton_idle,attack,passive_45
+  - first:
+      213: -3951746374025202878
+    second: sekeleton_idle,attack,passive_46
+  - first:
+      213: 4836061087976826188
+    second: sekeleton_idle,attack,passive_47
+  - first:
+      213: 6367426564797560312
+    second: sekeleton_idle,attack,passive_48
+  - first:
+      213: -4067225383058982193
+    second: sekeleton_idle,attack,passive_49
+  - first:
+      213: 7337223864353252078
+    second: sekeleton_idle,attack,passive_50
+  - first:
+      213: -5568460833980069307
+    second: sekeleton_idle,attack,passive_51
+  - first:
+      213: -101482151320348617
+    second: sekeleton_idle,attack,passive_52
+  - first:
+      213: 7521181229857446129
+    second: sekeleton_idle,attack,passive_53
+  - first:
+      213: -2037909667522759054
+    second: sekeleton_idle,attack,passive_54
+  - first:
+      213: -2915742646774308490
+    second: sekeleton_idle,attack,passive_55
+  - first:
+      213: 4790241814763930167
+    second: sekeleton_idle,attack,passive_56
+  - first:
+      213: 7071209425702307229
+    second: sekeleton_idle,attack,passive_57
+  - first:
+      213: -4937992075660971380
+    second: sekeleton_idle,attack,passive_58
+  - first:
+      213: -7850030349284705142
+    second: sekeleton_idle,attack,passive_59
+  - first:
+      213: 5551438469636859593
+    second: sekeleton_idle,attack,passive_60
+  - first:
+      213: -8016352545115034310
+    second: sekeleton_idle,attack,passive_61
+  - first:
+      213: -6149895829140104873
+    second: sekeleton_idle,attack,passive_62
+  - first:
+      213: 9216872150203325362
+    second: sekeleton_idle,attack,passive_63
+  - first:
+      213: 3720818683651263558
+    second: sekeleton_idle,attack,passive_64
+  - first:
+      213: 6371792951166824990
+    second: sekeleton_idle,attack,passive_65
+  - first:
+      213: -8492988431038098563
+    second: sekeleton_idle,attack,passive_66
+  - first:
+      213: -6791103122357030708
+    second: sekeleton_idle,attack,passive_67
+  - first:
+      213: 526376276826655030
+    second: sekeleton_idle,attack,passive_68
+  - first:
+      213: 503390674069451322
+    second: sekeleton_idle,attack,passive_69
+  - first:
+      213: -8668431181857931518
+    second: sekeleton_idle,attack,passive_70
+  - first:
+      213: -5421064728197876569
+    second: sekeleton_idle,attack,passive_71
+  - first:
+      213: 8688805193526216654
+    second: sekeleton_idle,attack,passive_72
+  - first:
+      213: -3899208905635576023
+    second: sekeleton_idle,attack,passive_73
+  - first:
+      213: 4554940430468989569
+    second: sekeleton_idle,attack,passive_74
+  - first:
+      213: 4926761119168736145
+    second: sekeleton_idle,attack,passive_75
+  - first:
+      213: -6977964380609986240
+    second: sekeleton_idle,attack,passive_76
+  - first:
+      213: -4487526106786037297
+    second: sekeleton_idle,attack,passive_77
+  - first:
+      213: -1812437628300927127
+    second: sekeleton_idle,attack,passive_78
+  - first:
+      213: -2306610605035292036
+    second: sekeleton_idle,attack,passive_79
+  - first:
+      213: 4719333256925093461
+    second: sekeleton_idle,attack,passive_80
+  - first:
+      213: -2239463056105936245
+    second: sekeleton_idle,attack,passive_81
+  - first:
+      213: 410026637575820094
+    second: sekeleton_idle,attack,passive_82
+  - first:
+      213: -9048846881406429890
+    second: sekeleton_idle,attack,passive_83
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39270da15036cd0800000000000000
+      internalID: -2566201749946592328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa23289b2e5349c20800000000000000
+      internalID: 3212251682113204906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14034d8aeb5d06f10800000000000000
+      internalID: 2261042027792969793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46650cbf69e8040f0800000000000000
+      internalID: -1134750326977440156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697793741f72b4c50800000000000000
+      internalID: 6650453191978219414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eea295711768990800000000000000
+      internalID: -7384090193933177274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2a87b002c9eb60800000000000000
+      internalID: 7775959539966946707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467b0bc9d98468b80800000000000000
+      internalID: -8392941013782448284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89088888f8a6c10800000000000000
+      internalID: 2047606797161765093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9f376d5c3d1840800000000000000
+      internalID: 5196375916917267954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1db5ebb5ec077280800000000000000
+      internalID: -9045747145710912225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850ffec8945ffe80800000000000000
+      internalID: -8142696585977985653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae9013149747ff0800000000000000
+      internalID: -39273175836923294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bdd6e3865ced100800000000000000
+      internalID: 134762090382351108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364ec7d407ec73cd0800000000000000
+      internalID: -2578365279914630045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef12c848ea87600800000000000000
+      internalID: 466314445742800402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94233692a30853a00800000000000000
+      internalID: 735635101435769417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d51e2ac5169840800000000000000
+      internalID: 5230391975338170583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37374640fbdac440800000000000000
+      internalID: 4957016164892358461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c409f25cfac34840800000000000000
+      internalID: 5207228779243046086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29a8dcb3feab75e0800000000000000
+      internalID: -1910741255020041937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1832edb31565570800000000000000
+      internalID: 8455034668006474202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90e26a3b3e06620800000000000000
+      internalID: 2765460531932170729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700600130631f6a60800000000000000
+      internalID: 7669369994295140359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c19256e7abc371a0800000000000000
+      internalID: -6812877889297280567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646e7325b69242a30800000000000000
+      internalID: 4189519094279038534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c67d579901d0140800000000000000
+      internalID: 4687421038455647334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec0cf7145f4f0800800000000000000
+      internalID: 580770099552324833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886145267d9f44840800000000000000
+      internalID: 5207561772610098824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21c87ebc6c6c730800000000000000
+      internalID: 4019118296540123863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a6615bf2d09b40800000000000000
+      internalID: 5445083926335234787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9603df6a304618610800000000000000
+      internalID: 1621687307679379561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501aeea44a3932de0800000000000000
+      internalID: -1359080328694685435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00be20a9435340d0800000000000000
+      internalID: -3439814114695794678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1349cbb24e05f40800000000000000
+      internalID: 5715318803631714810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f7451a41b1cec0800000000000000
+      internalID: -3548360099648507069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e96eef9894a690800000000000000
+      internalID: -7591775259172675328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81630e4bb69bc580800000000000000
+      internalID: -8805778915180977778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c517a201cbb87b780800000000000000
+      internalID: -8667305318009900708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7224f9389310d34f0800000000000000
+      internalID: -847519808342769113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388db9a1f6f617ca0800000000000000
+      internalID: -6020908703839168381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c35c1f4a666210800000000000000
+      internalID: 1325864028317403514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf8cc97929fd230800000000000000
+      internalID: 3665809801571007389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda4201ff73071620800000000000000
+      internalID: 2744666345944795870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d5d0081d12f6c80800000000000000
+      internalID: -8327400002304516747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78835ee32b8d2060800000000000000
+      internalID: 6930348388031629434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2433acd2c939829c0800000000000000
+      internalID: -3951746374025202878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a2fcdfe32d1340800000000000000
+      internalID: 4836061087976826188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f42089b4ad5850800000000000000
+      internalID: 6367426564797560312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca315d20105e87c0800000000000000
+      internalID: -4067225383058982193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26b48fa3e03d560800000000000000
+      internalID: 7337223864353252078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a41fcdf5ad8b2b0800000000000000
+      internalID: -5568460833980069307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73812836586779ef0800000000000000
+      internalID: -101482151320348617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f81df8ca7a906860800000000000000
+      internalID: 7521181229857446129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b8f664f3e7b3e0800000000000000
+      internalID: -2037909667522759054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6716f82d2833987d0800000000000000
+      internalID: -2915742646774308490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320a3dfc8b5a7240800000000000000
+      internalID: 4790241814763930167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95416ff18bf12260800000000000000
+      internalID: 7071209425702307229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b88aae5ab87bb0800000000000000
+      internalID: -4937992075660971380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c79d21df61f0390800000000000000
+      internalID: -7850030349284705142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6a42710ebaa0d40800000000000000
+      internalID: 5551438469636859593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dae1a25d130c090800000000000000
+      internalID: -8016352545115034310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7599272b35e27aaa0800000000000000
+      internalID: -6149895829140104873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb5f053368e8ef70800000000000000
+      internalID: 9216872150203325362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c8ba801e003a330800000000000000
+      internalID: 3720818683651263558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12f2ac0ee72d6850800000000000000
+      internalID: 6371792951166824990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d87e0508d22a80800000000000000
+      internalID: -8492988431038098563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0fcd6e0b721c1a0800000000000000
+      internalID: -6791103122357030708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63902765f601e4700800000000000000
+      internalID: 526376276826655030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a327727a6276cf600800000000000000
+      internalID: 503390674069451322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f307574cb83b780800000000000000
+      internalID: -8668431181857931518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4bd5b0a5284c4b0800000000000000
+      internalID: -5421064728197876569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec703bac946d49870800000000000000
+      internalID: 8688805193526216654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274d82c82a33e9c0800000000000000
+      internalID: -3899208905635576023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1824b2b3036663f30800000000000000
+      internalID: 4554940430468989569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b2241822f5f5440800000000000000
+      internalID: 4926761119168736145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041c96edd5a492f90800000000000000
+      internalID: -6977964380609986240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10ab428ca19b1c0800000000000000
+      internalID: -4487526106786037297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f529b649de8d6e0800000000000000
+      internalID: -1812437628300927127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af8bb20e54dffd0800000000000000
+      internalID: -2306610605035292036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e15b3d7907e7140800000000000000
+      internalID: 4719333256925093461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ae1353734dbe0e0800000000000000
+      internalID: -2239463056105936245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339721fd05b0b500800000000000000
+      internalID: 410026637575820094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_idle,attack,passive_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e355ed644b90c6280800000000000000
+      internalID: -9048846881406429890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

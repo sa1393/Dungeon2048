@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: 314a59369e5352e438f6054ffdc37a1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6017824334117322062
+    second: sekeleton_hit,dead_0
+  - first:
+      213: 1392299203257653552
+    second: sekeleton_hit,dead_1
+  - first:
+      213: -7206966776547483315
+    second: sekeleton_hit,dead_2
+  - first:
+      213: 5548143253831631626
+    second: sekeleton_hit,dead_3
+  - first:
+      213: -7954822381723325139
+    second: sekeleton_hit,dead_4
+  - first:
+      213: 5796985579715288619
+    second: sekeleton_hit,dead_5
+  - first:
+      213: 2825810050718037013
+    second: sekeleton_hit,dead_6
+  - first:
+      213: 8157389727165167709
+    second: sekeleton_hit,dead_7
+  - first:
+      213: -4794736392707043316
+    second: sekeleton_hit,dead_8
+  - first:
+      213: -1903810074694362853
+    second: sekeleton_hit,dead_9
+  - first:
+      213: -7969110719560842055
+    second: sekeleton_hit,dead_10
+  - first:
+      213: -4247018582469478204
+    second: sekeleton_hit,dead_11
+  - first:
+      213: 4898193310983022738
+    second: sekeleton_hit,dead_12
+  - first:
+      213: 5697487860992174934
+    second: sekeleton_hit,dead_13
+  - first:
+      213: 6239904635306485050
+    second: sekeleton_hit,dead_14
+  - first:
+      213: -749987606633716194
+    second: sekeleton_hit,dead_15
+  - first:
+      213: 4254491742185710675
+    second: sekeleton_hit,dead_16
+  - first:
+      213: 7238513915522427363
+    second: sekeleton_hit,dead_17
+  - first:
+      213: 3647155945711876766
+    second: sekeleton_hit,dead_18
+  - first:
+      213: 8554597275750029923
+    second: sekeleton_hit,dead_19
+  - first:
+      213: 4846728266138660350
+    second: sekeleton_hit,dead_20
+  - first:
+      213: -3752922652757871170
+    second: sekeleton_hit,dead_21
+  - first:
+      213: 5570867260352742795
+    second: sekeleton_hit,dead_22
+  - first:
+      213: -344758689992880235
+    second: sekeleton_hit,dead_23
+  - first:
+      213: -8811005146649835300
+    second: sekeleton_hit,dead_24
+  - first:
+      213: -8730132924341033865
+    second: sekeleton_hit,dead_25
+  - first:
+      213: -5390411978565108755
+    second: sekeleton_hit,dead_26
+  - first:
+      213: 1375349053448170362
+    second: sekeleton_hit,dead_27
+  - first:
+      213: -510084950978598809
+    second: sekeleton_hit,dead_28
+  - first:
+      213: -812233182265094000
+    second: sekeleton_hit,dead_29
+  - first:
+      213: 3396701994567803171
+    second: sekeleton_hit,dead_30
+  - first:
+      213: 2568304222562095646
+    second: sekeleton_hit,dead_31
+  - first:
+      213: 5440493915805403565
+    second: sekeleton_hit,dead_32
+  - first:
+      213: 6921305061438564420
+    second: sekeleton_hit,dead_33
+  - first:
+      213: -582033502446769819
+    second: sekeleton_hit,dead_34
+  - first:
+      213: -3711240275380376507
+    second: sekeleton_hit,dead_35
+  - first:
+      213: 5032347193511616816
+    second: sekeleton_hit,dead_36
+  - first:
+      213: 1152918035017291971
+    second: sekeleton_hit,dead_37
+  - first:
+      213: 5833614500813091356
+    second: sekeleton_hit,dead_38
+  - first:
+      213: -7202534996009026639
+    second: sekeleton_hit,dead_39
+  - first:
+      213: 3740967123016596844
+    second: sekeleton_hit,dead_40
+  - first:
+      213: -5737452813378987988
+    second: sekeleton_hit,dead_41
+  - first:
+      213: 6575756237375817488
+    second: sekeleton_hit,dead_42
+  - first:
+      213: 5400763690555143806
+    second: sekeleton_hit,dead_43
+  - first:
+      213: -1065201380614321893
+    second: sekeleton_hit,dead_44
+  - first:
+      213: 7090836750138536794
+    second: sekeleton_hit,dead_45
+  - first:
+      213: 7685388121719606313
+    second: sekeleton_hit,dead_46
+  - first:
+      213: 8412442820758898732
+    second: sekeleton_hit,dead_47
+  - first:
+      213: -1709814253433948907
+    second: sekeleton_hit,dead_48
+  - first:
+      213: -3834568223151420438
+    second: sekeleton_hit,dead_49
+  - first:
+      213: -7033327375408276701
+    second: sekeleton_hit,dead_50
+  - first:
+      213: -8416682891086008708
+    second: sekeleton_hit,dead_51
+  - first:
+      213: -1471096061614186245
+    second: sekeleton_hit,dead_52
+  - first:
+      213: -1163027232308700856
+    second: sekeleton_hit,dead_53
+  - first:
+      213: -335419721987543376
+    second: sekeleton_hit,dead_54
+  - first:
+      213: -3524274790878003950
+    second: sekeleton_hit,dead_55
+  - first:
+      213: 2211404121206986174
+    second: sekeleton_hit,dead_56
+  - first:
+      213: 5047374228608016159
+    second: sekeleton_hit,dead_57
+  - first:
+      213: 4078806710529667400
+    second: sekeleton_hit,dead_58
+  - first:
+      213: -5051064761895210333
+    second: sekeleton_hit,dead_59
+  - first:
+      213: 5334776637064542246
+    second: sekeleton_hit,dead_60
+  - first:
+      213: -1388266514349983692
+    second: sekeleton_hit,dead_61
+  - first:
+      213: -6242765700018721216
+    second: sekeleton_hit,dead_62
+  - first:
+      213: -6792936438676074490
+    second: sekeleton_hit,dead_63
+  - first:
+      213: -8101398719096851337
+    second: sekeleton_hit,dead_64
+  - first:
+      213: 1037818969435244241
+    second: sekeleton_hit,dead_65
+  - first:
+      213: 5561182668539819364
+    second: sekeleton_hit,dead_66
+  - first:
+      213: 5170518636198756446
+    second: sekeleton_hit,dead_67
+  - first:
+      213: -3386066205335105386
+    second: sekeleton_hit,dead_68
+  - first:
+      213: 6931919989941245501
+    second: sekeleton_hit,dead_69
+  - first:
+      213: 3794990341608902175
+    second: sekeleton_hit,dead_70
+  - first:
+      213: 5011820688955085731
+    second: sekeleton_hit,dead_71
+  - first:
+      213: -4984806716959376208
+    second: sekeleton_hit,dead_0
+  - first:
+      213: 3156818972029713286
+    second: sekeleton_hit,dead_1
+  - first:
+      213: 6730619837620014038
+    second: sekeleton_hit,dead_2
+  - first:
+      213: 4271947389584243911
+    second: sekeleton_hit,dead_3
+  - first:
+      213: -3893514812173844249
+    second: sekeleton_hit,dead_4
+  - first:
+      213: -342295940588819026
+    second: sekeleton_hit,dead_5
+  - first:
+      213: -5209344404335211131
+    second: sekeleton_hit,dead_6
+  - first:
+      213: -1495900085669483019
+    second: sekeleton_hit,dead_7
+  - first:
+      213: -2715725917174594085
+    second: sekeleton_hit,dead_8
+  - first:
+      213: 100677258318036938
+    second: sekeleton_hit,dead_9
+  - first:
+      213: -5129896567767043853
+    second: sekeleton_hit,dead_10
+  - first:
+      213: 4208355339672600409
+    second: sekeleton_hit,dead_11
+  - first:
+      213: 4772451473376682851
+    second: sekeleton_hit,dead_12
+  - first:
+      213: -7147625050882405137
+    second: sekeleton_hit,dead_13
+  - first:
+      213: 8597764938060941313
+    second: sekeleton_hit,dead_14
+  - first:
+      213: -2912451303541515256
+    second: sekeleton_hit,dead_15
+  - first:
+      213: 5022375569519336673
+    second: sekeleton_hit,dead_16
+  - first:
+      213: 4225831822401224560
+    second: sekeleton_hit,dead_17
+  - first:
+      213: -3483678157704255973
+    second: sekeleton_hit,dead_18
+  - first:
+      213: 2055122167723417691
+    second: sekeleton_hit,dead_19
+  - first:
+      213: -4001742863706362633
+    second: sekeleton_hit,dead_20
+  - first:
+      213: 634594660644836787
+    second: sekeleton_hit,dead_21
+  - first:
+      213: 8457606756257428741
+    second: sekeleton_hit,dead_22
+  - first:
+      213: 2935314686409517836
+    second: sekeleton_hit,dead_23
+  - first:
+      213: 4655076624712563443
+    second: sekeleton_hit,dead_24
+  - first:
+      213: 3365020033479795643
+    second: sekeleton_hit,dead_25
+  - first:
+      213: 8265571867590499237
+    second: sekeleton_hit,dead_26
+  - first:
+      213: -203051456536612379
+    second: sekeleton_hit,dead_27
+  - first:
+      213: -4362764088961574659
+    second: sekeleton_hit,dead_28
+  - first:
+      213: 2183060960490500887
+    second: sekeleton_hit,dead_29
+  - first:
+      213: 1585861136730270533
+    second: sekeleton_hit,dead_30
+  - first:
+      213: 2977569713690042468
+    second: sekeleton_hit,dead_31
+  - first:
+      213: -6654911348376605420
+    second: sekeleton_hit,dead_32
+  - first:
+      213: -4240483451621086136
+    second: sekeleton_hit,dead_33
+  - first:
+      213: -7896050817616645127
+    second: sekeleton_hit,dead_34
+  - first:
+      213: 891661431145755387
+    second: sekeleton_hit,dead_35
+  - first:
+      213: 7267450745787311348
+    second: sekeleton_hit,dead_36
+  - first:
+      213: -6009413605593384066
+    second: sekeleton_hit,dead_37
+  - first:
+      213: -6153165570144681974
+    second: sekeleton_hit,dead_38
+  - first:
+      213: -98445771357033775
+    second: sekeleton_hit,dead_39
+  - first:
+      213: -4754009116566959390
+    second: sekeleton_hit,dead_40
+  - first:
+      213: 2619795560474182484
+    second: sekeleton_hit,dead_41
+  - first:
+      213: 528826724608411178
+    second: sekeleton_hit,dead_42
+  - first:
+      213: -7945716612497707920
+    second: sekeleton_hit,dead_43
+  - first:
+      213: 4716096235479161749
+    second: sekeleton_hit,dead_44
+  - first:
+      213: -6789643405457337596
+    second: sekeleton_hit,dead_45
+  - first:
+      213: 6550827258443624446
+    second: sekeleton_hit,dead_46
+  - first:
+      213: 5385190238339229973
+    second: sekeleton_hit,dead_47
+  - first:
+      213: 6427842322012831720
+    second: sekeleton_hit,dead_48
+  - first:
+      213: 6922100323858767589
+    second: sekeleton_hit,dead_49
+  - first:
+      213: -8728731577044328304
+    second: sekeleton_hit,dead_50
+  - first:
+      213: -6013753132905369482
+    second: sekeleton_hit,dead_51
+  - first:
+      213: 8308086803509475418
+    second: sekeleton_hit,dead_52
+  - first:
+      213: 398526756636902790
+    second: sekeleton_hit,dead_53
+  - first:
+      213: -5932609850308139389
+    second: sekeleton_hit,dead_54
+  - first:
+      213: 274997049069649561
+    second: sekeleton_hit,dead_55
+  - first:
+      213: -6201959036522979356
+    second: sekeleton_hit,dead_56
+  - first:
+      213: 2341278053905712761
+    second: sekeleton_hit,dead_57
+  - first:
+      213: 6914337399838923895
+    second: sekeleton_hit,dead_58
+  - first:
+      213: 2602240271776089334
+    second: sekeleton_hit,dead_59
+  - first:
+      213: 2991546434761130114
+    second: sekeleton_hit,dead_60
+  - first:
+      213: -4873997252246728121
+    second: sekeleton_hit,dead_61
+  - first:
+      213: -2477485180196919523
+    second: sekeleton_hit,dead_62
+  - first:
+      213: 1614281659785662966
+    second: sekeleton_hit,dead_63
+  - first:
+      213: -4623353603876980100
+    second: sekeleton_hit,dead_64
+  - first:
+      213: -6990238435652958629
+    second: sekeleton_hit,dead_65
+  - first:
+      213: -3263432191746342657
+    second: sekeleton_hit,dead_66
+  - first:
+      213: 7696382863114942088
+    second: sekeleton_hit,dead_67
+  - first:
+      213: 494459370926091207
+    second: sekeleton_hit,dead_68
+  - first:
+      213: -5033360167458667172
+    second: sekeleton_hit,dead_69
+  - first:
+      213: -8371233050636158931
+    second: sekeleton_hit,dead_70
+  - first:
+      213: -6739257082040411774
+    second: sekeleton_hit,dead_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b24c34e6a46c7ca0800000000000000
+      internalID: -6017824334117322062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395b37afb0725310800000000000000
+      internalID: 1392299203257653552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4168df96e5bbfb90800000000000000
+      internalID: -7206966776547483315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a034d9fd4e6fefc40800000000000000
+      internalID: 5548143253831631626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ded06b03bca9190800000000000000
+      internalID: -7954822381723325139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eddf6cba7037050800000000000000
+      internalID: 5796985579715288619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514f6c3f44b473720800000000000000
+      internalID: 2825810050718037013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58b916bcbed43170800000000000000
+      internalID: 8157389727165167709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c001f0987aca57db0800000000000000
+      internalID: -4794736392707043316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19580ae2de4495e0800000000000000
+      internalID: -1903810074694362853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b481d0d508086190800000000000000
+      internalID: -7969110719560842055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c87c65d91f8f05c0800000000000000
+      internalID: -4247018582469478204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29866565dd0e9f340800000000000000
+      internalID: 4898193310983022738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be982e50b811f40800000000000000
+      internalID: 5697487860992174934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a1c39438989650800000000000000
+      internalID: 6239904635306485050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e6a0de328795f0800000000000000
+      internalID: -749987606633716194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354efc0c2bdfa0b30800000000000000
+      internalID: 4254491742185710675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9af6c0e0e547460800000000000000
+      internalID: 7238513915522427363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3c98520d4d9230800000000000000
+      internalID: 3647155945711876766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ada99e5e808b670800000000000000
+      internalID: 8554597275750029923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd2a02dda9034340800000000000000
+      internalID: 4846728266138660350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b9dc2bb0faebc0800000000000000
+      internalID: -3752922652757871170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85cd20f142bf4d40800000000000000
+      internalID: 5570867260352742795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fcebd4ccb273bf0800000000000000
+      internalID: -344758689992880235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd84cc7708509b580800000000000000
+      internalID: -8811005146649835300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774e5ba0c5658d680800000000000000
+      internalID: -8730132924341033865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debbd987dd86135b0800000000000000
+      internalID: -5390411978565108755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba2fc5da8361310800000000000000
+      internalID: 1375349053448170362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768e5ab8070dbe8f0800000000000000
+      internalID: -510084950978598809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090dd40693e5ab4f0800000000000000
+      internalID: -812233182265094000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3212312b772832f20800000000000000
+      internalID: 3396701994567803171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1213fc351374a320800000000000000
+      internalID: 2568304222562095646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da941463464808b40800000000000000
+      internalID: 5440493915805403565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a821684a6d0060800000000000000
+      internalID: 6921305061438564420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a84ffc933ce7f0800000000000000
+      internalID: -582033502446769819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c64dde1a60f7cc0800000000000000
+      internalID: -3711240275380376507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a1b72c1d76d540800000000000000
+      internalID: 5032347193511616816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8d85c28dcffff00800000000000000
+      internalID: 1152918035017291971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12388d0b7925f050800000000000000
+      internalID: 5833614500813091356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbff80f4947b0c90800000000000000
+      internalID: -7202534996009026639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db1d327c59ae330800000000000000
+      internalID: 3740967123016596844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28daf680197060b0800000000000000
+      internalID: -5737452813378987988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01748524577c14b50800000000000000
+      internalID: 6575756237375817488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76fd5b46fd53fa40800000000000000
+      internalID: 5400763690555143806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194a3eecf4a731f0800000000000000
+      internalID: -1065201380614321893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53fa449476b76260800000000000000
+      internalID: 7090836750138536794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8a1c17cbf7aa60800000000000000
+      internalID: 7685388121719606313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288e98ac200fb470800000000000000
+      internalID: 8412442820758898732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5157b28def48548e0800000000000000
+      internalID: -1709814253433948907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0f087480e8cac0800000000000000
+      internalID: -3834568223151420438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b52c7240a946e90800000000000000
+      internalID: -7033327375408276701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee5b9018fe13b80800000000000000
+      internalID: -8416682891086008708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0a2091ded959be0800000000000000
+      internalID: -1471096061614186245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849522ae4e81cdfe0800000000000000
+      internalID: -1163027232308700856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bea54c3a89585bf0800000000000000
+      internalID: -335419721987543376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3ad600c2471fc0800000000000000
+      internalID: -3524274790878003950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5906be45c70be10800000000000000
+      internalID: 2211404121206986174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f54a86e10eb0640800000000000000
+      internalID: 5047374228608016159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b990c715da9830800000000000000
+      internalID: 4078806710529667400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a23eb95c5307e9b0800000000000000
+      internalID: -5051064761895210333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f848261fe80a40800000000000000
+      internalID: 5334776637064542246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387996e5f2ebbce0800000000000000
+      internalID: -1388266514349983692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e2462ebad3d59a0800000000000000
+      internalID: -6242765700018721216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d7eeac44aab1a0800000000000000
+      internalID: -6792936438676074490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747d6cb9cc029f80800000000000000
+      internalID: -8101398719096851337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68956aad2176e00800000000000000
+      internalID: 1037818969435244241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465ff513c2a4d2d40800000000000000
+      internalID: 5561182668539819364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500a271e4f51c740800000000000000
+      internalID: 5170518636198756446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690db05f9b64201d0800000000000000
+      internalID: -3386066205335105386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3690e30180233060800000000000000
+      internalID: 6931919989941245501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e03a5eb938aa430800000000000000
+      internalID: 3794990341608902175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sekeleton_hit,dead_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a31f13ec509d8540800000000000000
+      internalID: 5011820688955085731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

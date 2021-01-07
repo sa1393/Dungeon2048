@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 0d8b8aac4a637e14f881fa69c951976b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4455328771357640741
+    second: soulLink_menu (1)_0
+  - first:
+      213: 957324643002122404
+    second: soulLink_menu (1)_1
+  - first:
+      213: 2950011606635979254
+    second: soulLink_menu (1)_2
+  - first:
+      213: -430933803849514940
+    second: soulLink_menu (1)_3
+  - first:
+      213: -7835530257972711061
+    second: soulLink_menu (1)_4
+  - first:
+      213: -3965856927297178586
+    second: soulLink_menu (1)_5
+  - first:
+      213: 569197596473156943
+    second: soulLink_menu (1)_6
+  - first:
+      213: -7563635921279344960
+    second: soulLink_menu (1)_7
+  - first:
+      213: 8805037213271930770
+    second: soulLink_menu (1)_8
+  - first:
+      213: -580774875787854545
+    second: soulLink_menu (1)_0
+  - first:
+      213: -5734355043644250928
+    second: soulLink_menu (1)_1
+  - first:
+      213: 727326493633373778
+    second: soulLink_menu (1)_2
+  - first:
+      213: -4391681133871474113
+    second: soulLink_menu (1)_3
+  - first:
+      213: -877749076169876858
+    second: soulLink_menu (1)_4
+  - first:
+      213: 8141909208538413469
+    second: soulLink_menu (1)_5
+  - first:
+      213: -4886440920767122477
+    second: soulLink_menu (1)_6
+  - first:
+      213: -4030723400037615974
+    second: soulLink_menu (1)_7
+  - first:
+      213: -2777705080783409196
+    second: soulLink_menu (1)_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soulLink_menu (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451.3333
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d713ad35ca0f7f0800000000000000
+      internalID: -580774875787854545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 451.3333
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46d9f387a7b60b0800000000000000
+      internalID: -5734355043644250928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 451.3333
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2566fb8a79bf71a00800000000000000
+      internalID: 727326493633373778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.33333
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a5ec0e64d9d03c0800000000000000
+      internalID: -4391681133871474113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226.33333
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a97f0addb91d3f0800000000000000
+      internalID: -877749076169876858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 226.33333
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f968994fddf070800000000000000
+      internalID: 8141909208538413469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d33ebd3fdfdf2cb0800000000000000
+      internalID: -4886440920767122477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1.3333282
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9637e06c6eff08c0800000000000000
+      internalID: -4030723400037615974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulLink_menu (1)_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1.3333282
+        width: 225.66667
+        height: 225.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df6b1922fb9379d0800000000000000
+      internalID: -2777705080783409196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

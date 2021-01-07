@@ -1,0 +1,1036 @@
+fileFormatVersion: 2
+guid: d2d824a130973df4cb0b6217c94599ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 914803649417325988
+    second: SOUL-Player_0
+  - first:
+      213: -3132462431762522942
+    second: SOUL-Player_1
+  - first:
+      213: 5943525990449592929
+    second: SOUL-Player_2
+  - first:
+      213: 3545875339094291247
+    second: SOUL-Player_3
+  - first:
+      213: -5445629624938384622
+    second: SOUL-Player_4
+  - first:
+      213: -5765916650879320435
+    second: SOUL-Player_5
+  - first:
+      213: -7249360179687920372
+    second: SOUL-Player_6
+  - first:
+      213: 1389606105154608553
+    second: SOUL-Player_7
+  - first:
+      213: 4543433000758751717
+    second: SOUL-Player_8
+  - first:
+      213: -3990061234650692240
+    second: SOUL-Player_9
+  - first:
+      213: -4558443504976655105
+    second: SOUL-Player_10
+  - first:
+      213: -7249615746621985811
+    second: SOUL-Player_11
+  - first:
+      213: -238048506390084352
+    second: SOUL-Player_12
+  - first:
+      213: 6265686085783777707
+    second: SOUL-Player_13
+  - first:
+      213: 3022334448053139942
+    second: SOUL-Player_14
+  - first:
+      213: -8387047192568861076
+    second: SOUL-Player_15
+  - first:
+      213: 5213236637354106260
+    second: SOUL-Player_16
+  - first:
+      213: -5744911383480715475
+    second: SOUL-Player_17
+  - first:
+      213: -5578087948636385956
+    second: SOUL-Player_18
+  - first:
+      213: -2746261197547878333
+    second: SOUL-Player_19
+  - first:
+      213: 7658402460052358571
+    second: SOUL-Player_20
+  - first:
+      213: -7312468978002470809
+    second: SOUL-Player_21
+  - first:
+      213: 6517505349135178807
+    second: SOUL-Player_22
+  - first:
+      213: 1184254390468193443
+    second: SOUL-Player_23
+  - first:
+      213: -8724966671253825087
+    second: SOUL-Player_24
+  - first:
+      213: 7008635185010550809
+    second: SOUL-Player_25
+  - first:
+      213: 7315800478347487255
+    second: SOUL-Player_26
+  - first:
+      213: -3894811385469207128
+    second: SOUL-Player_27
+  - first:
+      213: -8941916236500138999
+    second: SOUL-Player_28
+  - first:
+      213: 5504686244325661362
+    second: SOUL-Player_29
+  - first:
+      213: 8319636301306451065
+    second: SOUL-Player_30
+  - first:
+      213: -8315469812477265128
+    second: SOUL-Player_31
+  - first:
+      213: 3626308756351608526
+    second: SOUL-Player_32
+  - first:
+      213: -5060239168323996366
+    second: SOUL-Player_33
+  - first:
+      213: -232276630722670828
+    second: SOUL-Player_34
+  - first:
+      213: 4942499245147772411
+    second: SOUL-Player_35
+  - first:
+      213: 6402503125385589954
+    second: SOUL-Player_36
+  - first:
+      213: 4860748097222252893
+    second: SOUL-Player_37
+  - first:
+      213: -7698123803279610107
+    second: SOUL-Player_38
+  - first:
+      213: 6595862892992157935
+    second: SOUL-Player_39
+  - first:
+      213: 424269084041021356
+    second: SOUL-Player_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SOUL-Player_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad20c2821902bc00800000000000000
+      internalID: 914803649417325988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd98ac3024784d0800000000000000
+      internalID: -3132462431762522942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16abc0ee565ab7250800000000000000
+      internalID: 5943525990449592929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23788485da753130800000000000000
+      internalID: 3545875339094291247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213343355bc3d64b0800000000000000
+      internalID: -5445629624938384622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ef3dbea595bffa0800000000000000
+      internalID: -5765916650879320435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0de6d84359156b90800000000000000
+      internalID: -7249360179687920372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5473e36fd84310800000000000000
+      internalID: 1389606105154608553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e13307fd348d0f30800000000000000
+      internalID: 4543433000758751717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c694827470a8c0800000000000000
+      internalID: -3990061234650692240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc0e2da8c72db0c0800000000000000
+      internalID: -4558443504976655105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba48873e0346b90800000000000000
+      internalID: -7249615746621985811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058e49052842bcf0800000000000000
+      internalID: -238048506390084352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ff394c4034f650800000000000000
+      internalID: 6265686085783777707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e932a0ea2d71f920800000000000000
+      internalID: 3022334448053139942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eee7cc3093b9b80800000000000000
+      internalID: -8387047192568861076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1b8bc913295840800000000000000
+      internalID: 5213236637354106260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b889d889f540b0800000000000000
+      internalID: -5744911383480715475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d04af8096a692b0800000000000000
+      internalID: -5578087948636385956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34848bbbdf153e9d0800000000000000
+      internalID: -2746261197547878333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50662267c184a60800000000000000
+      internalID: 7658402460052358571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76859172534e48a90800000000000000
+      internalID: -7312468978002470809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c19e47594d27a50800000000000000
+      internalID: 6517505349135178807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acad8bf7115f6010800000000000000
+      internalID: 1184254390468193443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c91bc21a01bae680800000000000000
+      internalID: -8724966671253825087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_25
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918abd2419ca34160800000000000000
+      internalID: 7008635185010550809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e88736c1f68560800000000000000
+      internalID: 7315800478347487255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_27
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf5f53ea9d2f9c0800000000000000
+      internalID: -3894811385469207128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_28
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048c182f8ee7e380800000000000000
+      internalID: -8941916236500138999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_29
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba920169f2946c40800000000000000
+      internalID: 5504686244325661362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d0dff229457370800000000000000
+      internalID: 8319636301306451065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_31
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bfec64344899c80800000000000000
+      internalID: -8315469812477265128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_32
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6e934d99c335230800000000000000
+      internalID: 3626308756351608526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_33
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235b785694b66c9b0800000000000000
+      internalID: -5060239168323996366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_34
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f862092a9c6ccf0800000000000000
+      internalID: -232276630722670828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_35
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf55ba180e8479440800000000000000
+      internalID: 4942499245147772411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_36
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4bfedaba24ad850800000000000000
+      internalID: 6402503125385589954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUL-Player_37
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 37.94737
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59969d14a8d47340800000000000000
+      internalID: 4860748097222252893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
